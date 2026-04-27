@@ -1,0 +1,9 @@
+# Ignore massive dataset and training files
+combined_sepsis_data.csv
+*.psv
+*.zip
+
+# Windows OS 
+[Dd]esktop.ini
+~$*
+Thumbs.db
